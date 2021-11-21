@@ -36,7 +36,7 @@
 
   <a name='contri'></a>
   ### Contributions:
-      Brian
+      Brian https://github.com/bmalbright
 
   <a name='tests'></a>
   ### Tests
